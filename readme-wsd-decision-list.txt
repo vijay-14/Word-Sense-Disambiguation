@@ -1,5 +1,4 @@
-1. This program helps in determing the sense of an ambigous word in a text. It takes a XML file for training which has the senseid, cantext and ambigous word and tries to
-  predict the sesnse id in a test data.
+1. This program helps in determining the sense of an ambiguous word in a text. It takes an XML file for training which has the senseid, context and ambiguous word and tries to predict the sense id in a test data.
 
 2. Inorder to make this program work first we need to install the required libraries. Then in the command line arguments you need to pass a minimum of 4 arguments.
   -> The first argument should be the training data with senseid.
